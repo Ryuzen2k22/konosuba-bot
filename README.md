@@ -7,7 +7,7 @@
 <a href="#"><img title="KONOSUBA MULTI DEVICE" src="https://img.shields.io/badge/KONOSUBA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-Ryuzen2k22-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ryuzen2k22/konosuba-bot"><img title="Owner" src="https://img.shields.io/badge/Recode-Ryuzen2k22-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
