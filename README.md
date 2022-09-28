@@ -33,18 +33,20 @@
 ---
 
 # Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+
+## '''Heroku Buildpack'''
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ryuzen2k22/konosuba-bot)
+
+| BuildPack | LINK |
+|--------|--------|
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
 ```
 ## For Termux
-```ts
 apt update && apt upgrade
 pkg install bash nodejs ffmpeg libwebp git mc yarn
-git clone https://github.com/zeeone-ofc/Haruka-Md.git
-cd Haruka-Md
+git clone https://github.com/Ryuzen2k22/konosuba-bot.git
+cd konosuba-bot
 yarn
 rm -rf session.json
 npm start
@@ -54,12 +56,12 @@ npm start
 `./config.json`
 ```{
     "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerName": "Ryuzen2k22",
     "instagram" : "https://instagram.com/zeeoneofc",
     "botName": "Haruka-Mdོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/Konosuba.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
